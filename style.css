@@ -1,0 +1,16 @@
+#header{
+display: flex;
+flex-direction: row;
+text-align: center;
+
+background-color:#3a74c6;
+ }
+
+.one li, .two, .three {
+    display: inline-block;
+    justify-content: space-between;
+    text-align: center;
+}
+
+
+/* 
